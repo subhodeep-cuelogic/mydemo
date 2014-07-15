@@ -1,0 +1,4 @@
+cue_com:
+    resource: "@CueComBundle/Resources/config/routing.yml"
+    prefix:   /
+
